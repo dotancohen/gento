@@ -15,7 +15,7 @@ logging.basicConfig(level=logging.DEBUG, filename='./debug.log', filemode='a')
 logging.debug("start")
 
 
-version = 0.1
+version = 0.1.1
 issues_dir = "./issues"
 
 
